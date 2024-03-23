@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://filehost.osiriz.xyz/banner/banner_smaller.png" />
+    <img src="img/banner_4096x4096.png" />
 </div>
 
 <div id="social" align="center">
