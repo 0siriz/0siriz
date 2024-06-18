@@ -1,7 +1,3 @@
-<div id="header" align="center">
-    <img src="img/banner_2048x2048.png" />
-</div>
-
 <div id="social" align="center">
     <a href="https://discord.com/users/369209692762931203"><img src="https://img.shields.io/badge/Discord-5165f6?logo=discord&logoColor=white&style=for-the-badge" /></a>
     <a href="https://matrix.to/#/@osiriz:osiriz.xyz"><img src="https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white&style=for-the-badge" /></a>
