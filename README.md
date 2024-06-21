@@ -1,4 +1,4 @@
-![Header](./assets/header.png){width=1486}
+![Header](https://raw.githubusercontent.com/0siriz/0siriz/main/assets/header.png)
 
 ---
 
