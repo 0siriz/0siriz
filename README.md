@@ -1,4 +1,4 @@
-![Header](./assets/header.png)
+![Header](./assets/header.png){width=1486}
 
 ---
 
