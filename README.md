@@ -1,7 +1,3 @@
-![Header](https://raw.githubusercontent.com/0siriz/0siriz/main/assets/header.png)
-
----
-
 [![Discord](https://img.shields.io/badge/Discord-5165f6?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/369209692762931203)
 [![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@osiriz:osiriz.xyz)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/0xOsiriz)
